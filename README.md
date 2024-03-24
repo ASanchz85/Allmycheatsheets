@@ -1,6 +1,6 @@
 # All My Cheatsheets
 
-Just a backup of all my cheat-sheets for giving me quick access regardless the place in which I am.
+Just a backup of all my cheatsheets. The purpose of this repository is giving me a quick access to them regardless the place in which I am. As well as, share them with the community and other developers.
 
 *Take into consideration that most of those documents cost tons of time to their creators (not me), so you should not distribute them without their authorization*
 
